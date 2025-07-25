@@ -3,6 +3,7 @@ AI based Splitwise clone
 
 Make sure to create a .env file with following variables -
 # Deployment used by `npx convex dev`
+```
 CONVEX_DEPLOYMENT=
 
 NEXT_PUBLIC_CONVEX_URL=
@@ -18,3 +19,4 @@ CLERK_JWT_ISSUER_DOMAIN=
 RESEND_API_KEY=
 
 GEMINI_API_KEY=
+```
